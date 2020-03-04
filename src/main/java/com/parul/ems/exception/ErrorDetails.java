@@ -2,7 +2,6 @@ package com.parul.ems.exception;
 
 import java.util.Date;
 
-
 /**
  * @author parul
  *
